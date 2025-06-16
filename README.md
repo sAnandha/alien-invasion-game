@@ -15,9 +15,14 @@
 
 > 💡 It’s like having an AI pair programmer that works with your tools and cloud environment.
 >
-> ## 📸 Game Preview
+## 🖼️ Game Screenshots
 
-![Alien Invasion Screenshot](Screenshot%202025-06-16%20142845.png)
+### 🕹️ Main Menu
+![Main Menu](Screenshot%202025-06-16%20142845.png)
+
+### 🚀 Gameplay View
+![Gameplay](Screenshot%202025-06-16%20145322.png)
+
 
 
 This guide helps you:
