@@ -5,6 +5,8 @@
 
 **Amazon Q** is an AI-powered developer assistant from AWS that helps you write, understand, and improve code using natural language. You can generate complete functions, debug logic, explain code, and automate AWS infrastructure — all from your terminal or IDE.
 
+
+
 ### 🔑 Key Features:
 - 🧠 Natural language code generation
 - 🛠️ Real-time code explanation and debugging
@@ -12,6 +14,10 @@
 - 💬 Available via CLI, IDEs (VS Code, JetBrains), and AWS Console
 
 > 💡 It’s like having an AI pair programmer that works with your tools and cloud environment.
+>
+> ## 📸 Game Preview
+
+![Alien Invasion Screenshot](Screenshot%202025-06-16%20142845.png)
 
 
 This guide helps you:
